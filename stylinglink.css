@@ -1,0 +1,27 @@
+a{
+	display:inline-block;
+	font-weight: bold;
+	color: #ffffff;
+	/*background: brown;*/
+	width: 32%;
+	text-align: center;
+	padding: 4px;
+	text-decoration: none;
+	margin:0 auto;
+	margin-top: 10px;
+}
+a.button:hover{
+	background:#B3B3B3;
+	color:#0006CC;
+}	
+a.button:focus{
+	background:pink;
+	color:black;
+	/*Background Color*/
+}
+a:active{
+	border: 3px solid #000000
+}
+body{
+	background-image: url("../disha2.jpg"); ima
+}
